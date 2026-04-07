@@ -20,7 +20,7 @@ const Branches = () => {
             Nossas Filiais
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Presença em 8 cidades do Nordeste para melhor atendê-lo
+            Presença em 9 cidades do Nordeste para melhor atendê-lo
           </p>
         </div>
 

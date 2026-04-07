@@ -83,4 +83,13 @@ export const branchesData: Branch[] = [
     email: 'comercial.jpa@magnaloc.com.br',
     mapQuery: 'Rua Francisco Feitosa Palitot, Aeroclube, João Pessoa, PB',
   },
+  {
+    city: 'Petrolina',
+    state: 'PE',
+    address: 'Av. Doutor Ulisses Guimaraes, 331, Cosme e Damiao',
+    phone: '(87) 3020-0020',
+    whatsapp: '5587081271177',
+    email: 'comercial.pnz@magnaloc.com.br',
+    mapQuery: 'Av. Doutor Ulisses Guimaraes, 331, Cosme e Damiao, Petrolina, PE',
+  },
 ];
